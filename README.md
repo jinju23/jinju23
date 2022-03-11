@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.instagram.com/pearl._.lee/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Android&logoColor=white"/>
+  
+  </a>
