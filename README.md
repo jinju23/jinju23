@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/pearl._.lee/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  
+  </a>
+<a href="https://pearl23.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Storyblok-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
   </a>
