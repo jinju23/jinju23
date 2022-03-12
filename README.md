@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/pearl._.lee/" target="_blank"><img src="https://img.shields.io/badge/pearl._.lee-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/pearl._.lee/" target="_blank"><img src="https://img.shields.io/badge/pearl._.lee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/barley_bori_sal/" target="_blank"><img src="https://img.shields.io/badge/barley_bori_sal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-<a href="https://pearl23.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
+<a href="https://pearl23.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-09B3AF?style=for-the-badge&logo=Storyblok&logoColor=white"/>
   </a>
-
 <br>
 <br>
-<p>stack</p>
+  
+<div align="center">
+  <p style="color=pink;">Stack💻</p>
 
-<div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  
@@ -36,9 +37,20 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-ed5725?style=for-the-badge&logo=apachetomcat&logoColor=white">
+ <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+ <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+  <br>
+  <br>
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+ <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=Visual Studio&logoColor=white">
+  
+  
+  
   </div>
